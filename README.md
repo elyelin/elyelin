@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elyelin
 - 👀 I’m interested in develop programming skills
-- 🌱 I’m currently learning 'algorithms and logical thinking' , 'Java' , 'POO'
+- 🌱 I’m currently learning 'algorithms and logical thinking' , 'iOS Swift' , 'POO'
 - 💞️ I’m looking to collaborate on education
 - 📫 How to reach me https://www.linkedin.com/in/elyelin-carrasquero-187989187
 
